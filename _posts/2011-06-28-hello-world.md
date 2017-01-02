@@ -1,8 +1,8 @@
 ---
 author: supay
 layout: post
-excerpt_separator:
-comments: true
+excerpt_separator: <!-- more -->
+comments: false
 title: ""
 dsq_thread_id:
   - 345077375
