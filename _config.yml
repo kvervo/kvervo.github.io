@@ -9,7 +9,7 @@ permalink:        pretty
 title:            'Supaywasi'
 tagline:          'A Jekyll theme'
 description:      'An unknown frontier. Personal blog on IT, life, JavaScript, C#, WindowsPhone'
-url:              https://kvervo.github.io/
+url:              http://blog.supaywasi.com
 baseurl:          /
 
 author:
