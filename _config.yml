@@ -1,0 +1,50 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Supaywasi'
+tagline:          'A Jekyll theme'
+description:      'An unknown frontier. Personal blog on IT, life, JavaScript, C#, WindowsPhone'
+url:              https://kvervo.github.io/
+baseurl:          /
+
+author:
+  name:           'Mijail'
+  url:            
+  email:          'cisneros@mijail.ru'
+
+paginate:         4
+
+# Disqus Comments
+disqus_short_name: supaywasi
+disqus_show_comment_count: true
+
+# Google Analytics
+# google_analytics_tracking_id: UA-24254709-1
+
+# Twitter
+twitter_user: kvervo
+twitter_follow_button: true
+twitter_tweet_button: true
+
+# Facebook Like
+facebook_like: false
+
+# Github
+github:
+  repo:           https://github.com/kvervo
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
